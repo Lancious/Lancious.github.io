@@ -3132,6 +3132,7 @@ body a{
 }
 .header {
 	background: url(../images/bg2.jpg)no-repeat center top;
+	background-size: contain;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
