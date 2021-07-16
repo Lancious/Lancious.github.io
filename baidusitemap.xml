@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.alwaysmissyou.cn/2021-06/how-to-accomplish-your-plan/</loc>
-    <lastmod>2021-06-01</lastmod>
-  </url>  <url>
-    <loc>http://www.alwaysmissyou.cn/2021-06/fighting/</loc>
-    <lastmod>2021-06-01</lastmod>
+    <loc>http://www.alwaysmissyou.cn/2021-07/emotion/</loc>
+    <lastmod>2021-07-16</lastmod>
   </url>  <url>
     <loc>http://www.alwaysmissyou.cn/2021-06/blog-build-hexo-3/</loc>
     <lastmod>2021-06-01</lastmod>
@@ -14,6 +11,12 @@
     <lastmod>2021-06-01</lastmod>
   </url>  <url>
     <loc>http://www.alwaysmissyou.cn/2021-06/blog-build-hexo-1/</loc>
+    <lastmod>2021-06-01</lastmod>
+  </url>  <url>
+    <loc>http://www.alwaysmissyou.cn/2021-06/fighting/</loc>
+    <lastmod>2021-06-01</lastmod>
+  </url>  <url>
+    <loc>http://www.alwaysmissyou.cn/2021-06/how-to-accomplish-your-plan/</loc>
     <lastmod>2021-06-01</lastmod>
   </url>
 </urlset>
